@@ -24,7 +24,7 @@
 ## Лекции
 записи лекций выкладываются сюда: https://disk.yandex.ru/d/QbShoydtKt1Ajg
 
-презентации лекций выкладываются сюда: 
+презентации лекций выкладываются сюда: [презентации](/презентации)
 
 ## Практики
 1. [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dS0iHbqD7c85yDNL3-x16HTWz6_x9hXp?usp=sharing) 
