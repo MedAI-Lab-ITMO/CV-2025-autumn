@@ -27,8 +27,9 @@
 презентации лекций выкладываются сюда: [презентации](/презентации)
 
 ## Практики
-1. [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dS0iHbqD7c85yDNL3-x16HTWz6_x9hXp?usp=sharing) 
-классические методы
-2. 
-[![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ntMVAxQR914v65Zwud7r0Py4Hp-LAdnx?usp=sharing) PyTorch basics
-[![lesson2b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing) стандартное обучение CV модели
+[![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dS0iHbqD7c85yDNL3-x16HTWz6_x9hXp?usp=sharing) 
+практика №1 классические методы <br/>
+[![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ntMVAxQR914v65Zwud7r0Py4Hp-LAdnx?usp=sharing) 
+практика №2 PyTorch basics <br/>
+[![lesson2b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)
+практика №2 стандартное обучение CV модели <br/>
