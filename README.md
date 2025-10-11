@@ -41,3 +41,6 @@ PyTorch basics <br/>
 Ознакомление с устройством ViT. Можно использовать этот [пост](https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/) (или ноутбук того же автора https://github.com/tintn/vision-transformer-from-scratch/blob/main/vision_transformers.ipynb)
 ### Практика №6
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
+
+## Дополнительные материалы
+* про выборки [link](/материалы/выборки.md)
