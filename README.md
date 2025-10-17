@@ -39,6 +39,9 @@ PyTorch basics <br/>
 стандартное обучение CV модели <br/>
 ### Практика №3
 Ознакомление с устройством ViT. Можно использовать этот [пост](https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/) (или ноутбук того же автора https://github.com/tintn/vision-transformer-from-scratch/blob/main/vision_transformers.ipynb)
+### Практика №4
+[![lesson4a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4_aBLjeZa1I8J2X6dBMUw_IO_48k7vl?usp=sharing) HuggingFace <br/>
+[![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing) аугментации <br/>
 ### Практика №6
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 
