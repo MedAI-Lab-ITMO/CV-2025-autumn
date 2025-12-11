@@ -45,9 +45,9 @@ PyTorch basics <br/>
 * comet-ml + optuna https://colab.research.google.com/drive/1_OIa7aVqbFMUahh6yq4Un6Fw-TWapi4k?usp=sharing
 ### Практика №4
 Ознакомление с устройством ViT. Можно использовать этот [пост](https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/) (или ноутбук того же автора https://github.com/tintn/vision-transformer-from-scratch/blob/main/vision_transformers.ipynb)
-### Практика №4
-[![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing) аугментации <br/>
 ### Практика №5
+[![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing) аугментации <br/>
+### Практика №?
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 
 ## Дополнительные материалы
