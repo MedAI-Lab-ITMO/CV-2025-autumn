@@ -50,7 +50,7 @@ PyTorch basics <br/>
 * устройство оптимайзера https://colab.research.google.com/drive/1vGJTljjI2qi2kuITutSzs5s6KcOPU7tB?usp=sharing
 * сравнение разных видов TL https://colab.research.google.com/drive/1rYzN7ENztJuwpPN6eHjIqGBezUVOyccD?usp=sharing
 * lr finder https://colab.research.google.com/drive/1udaQ0HY5fQyoh8hm-h-Gp9BSOE2R8LEl?usp=sharing
-### Практика №?
+### Практика №6
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 
 ## Дополнительные материалы
