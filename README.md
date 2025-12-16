@@ -38,6 +38,7 @@ PyTorch basics <br/>
 [![lesson2b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)
 стандартное обучение CV модели <br/>
 [![lesson2с](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4_aBLjeZa1I8J2X6dBMUw_IO_48k7vl?usp=sharing) HuggingFace <br/>
+[![lesson2d](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing) аугментации <br/>
 ### Практика №3
 * base https://colab.research.google.com/drive/1KvOrpnxwdS5ElTyY5r6NCeQ7nM3I8evC?usp=sharing
 * comet-ml https://colab.research.google.com/drive/1hTKJTFE5Z4IR86YHlkC1gKm2LXd9_VN8?usp=sharing
@@ -46,7 +47,9 @@ PyTorch basics <br/>
 ### Практика №4
 Ознакомление с устройством ViT. Можно использовать этот [пост](https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/) (или ноутбук того же автора https://github.com/tintn/vision-transformer-from-scratch/blob/main/vision_transformers.ipynb)
 ### Практика №5
-[![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing) аугментации <br/>
+* устройство оптимайзера https://colab.research.google.com/drive/1vGJTljjI2qi2kuITutSzs5s6KcOPU7tB?usp=sharing
+* сравнение разных видов TL https://colab.research.google.com/drive/1rYzN7ENztJuwpPN6eHjIqGBezUVOyccD?usp=sharing
+* lr finder https://colab.research.google.com/drive/1udaQ0HY5fQyoh8hm-h-Gp9BSOE2R8LEl?usp=sharing
 ### Практика №?
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 
