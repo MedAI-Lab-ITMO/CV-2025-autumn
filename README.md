@@ -53,5 +53,9 @@ PyTorch basics <br/>
 ### Практика №6
 генерация изображений с использованием готовой модели с HuggingFace + интерфейс gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 
+### Практика №7 (VLM)
+* инференс https://colab.research.google.com/drive/1ch8G5pex9kqgzNXguIlwg-xIpOEr3Jh6?usp=sharing
+* обучение https://drive.google.com/file/d/1FY-hsxljBnpUSgWYi_JAlvj-YuYi6cxl/view?usp=sharing
+
 ## Дополнительные материалы
 * про выборки [link](/материалы/выборки.md)
