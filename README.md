@@ -55,7 +55,7 @@ PyTorch basics <br/>
 
 ### Практика №7 (VLM)
 * инференс https://colab.research.google.com/drive/1ch8G5pex9kqgzNXguIlwg-xIpOEr3Jh6?usp=sharing
-* обучение [https://drive.google.com/file/d/1FY-hsxljBnpUSgWYi_JAlvj-YuYi6cxl/view?usp=sharing](https://drive.google.com/file/d/1FY-hsxljBnpUSgWYi_JAlvj-YuYi6cxl/view?usp=sharing)
+* обучение https://colab.research.google.com/drive/1RzJA-aSv_EDLB9nHUk7rD5nnxNbUxPn9?usp=sharing
 
 ## Дополнительные материалы
 * про выборки [link](/материалы/выборки.md)
